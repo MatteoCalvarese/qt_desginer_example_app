@@ -10,16 +10,29 @@ The app is simply starting a connection with the host PC webcam (nr. 0) and plot
 * PyQt5
  ```bash
    pip install PyQt5
+ ```
+
 * QtPy
  ```bash
 pip install PyQt5
+```
+
 * PyQtGraph
  ```bash
 pip install pyqtgraph
+```
+
+
 * Opencv
  ```bash
 pip install opencv-python
-* Qt Designer App: you can find it at the yourpathtoanaconda\anaconda3\envs\yourenv\Lib\site-packages\qt5_applications\Qt\bin, after having installed
+```
+
+
+* Qt Designer App: you can find it at the yourpathtoanaconda\anaconda3\envs\yourenv\Lib\site-packages\qt5_applications\Qt\bin, after having installed Qt5_applications
  ```bash
 pip install qt5-applications
+```
+
+
 
